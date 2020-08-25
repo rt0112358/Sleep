@@ -2,4 +2,4 @@
 Sleep timer routine
 
 After cloning...
-    $ mv test.desktop ~/Desktop/
+    $ mv ~/Sleep/test.desktop ~/Desktop/
