@@ -1,5 +1,5 @@
 # Sleep
 Sleep timer routine
 
-After cloning...
+After cloning...\
     $ mv ~/Sleep/test.desktop ~/Desktop/
