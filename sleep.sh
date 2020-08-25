@@ -4,7 +4,7 @@
 #########################################
 echo "starting \n sleep \n timer" | figlet
 sleep 3s
-python3 /home/bob/loading.py
+python3 /home/bob/Sleep/loading.py
 pkill chrome
 sleep 6s
 echo "\nGoodnight" | figlet

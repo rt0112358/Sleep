@@ -2,7 +2,7 @@
 Comment[en_US]=
 Comment=
 Encoding=UTF-8
-Exec=sh /home/bob/driver.sh
+Exec=sh /home/bob/Sleep/driver.sh
 GenericName[en_US]=
 GenericName=
 MimeType=
