@@ -9,10 +9,10 @@ import time
 
 keyboard = Controller()
 
-keyboard.press(Key.space)
-keyboard.release(Key.space)
+#keyboard.press(Key.space)
+#keyboard.release(Key.space)
 
-time.sleep(1)
+time.sleep(2)
 
 keyboard.press("f")
 keyboard.release("f")
