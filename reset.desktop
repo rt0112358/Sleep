@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Encoding=UTF-8
+Exec=sh /home/bob/Sleep/reset.sh
+GenericName[en_US]=
+GenericName=
+Icon=view-refresh-symbolic
+MimeType=
+Name=Reset
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
